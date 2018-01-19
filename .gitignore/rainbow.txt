@@ -6,7 +6,7 @@ purple
 pink
 blue
 
-unicorn
+
 green
 black
 these are all rainbow colors
