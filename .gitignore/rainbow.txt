@@ -6,7 +6,8 @@ purple
 pink
 blue
 
-
+ponies
+indigo
 green
 black
 these are all rainbow colors
