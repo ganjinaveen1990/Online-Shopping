@@ -4,6 +4,7 @@ purple
 pink
 blue
 
+orange
 green
 black
 these are all rainbow colors
